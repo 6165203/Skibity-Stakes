@@ -1,2 +1,2 @@
 # Skibity-Stakes
-lol
+Betting platform for funny things lol
